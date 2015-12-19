@@ -18,3 +18,7 @@ SOURCES += main.cpp\
 HEADERS  += buttongameview.h
 
 FORMS    += buttongameview.ui
+
+DISTFILES += \
+    src/controller.py \
+    src/main.py
